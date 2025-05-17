@@ -193,7 +193,7 @@ const Card = ({ searchTerm = "" }) => {
               </div>
               <div className="card">
                 <img src={Ass} alt="" className="img-assets" />
-                <h3>Ass</h3>
+                <h3>AAS</h3>
                 <p>Ácido Acetilsalicílico</p>
                 <div className="link">
                   <a href="#" onClick={(e) => {
